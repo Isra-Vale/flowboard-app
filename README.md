@@ -1,16 +1,46 @@
-# React + Vite
+# FlowBoard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern task management dashboard inspired by Kanban tools.
 
-Currently, two official plugins are available:
+## About
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+FlowBoard helps organize tasks across different stages (To Do, In Progress, Done) with filtering, sorting, and project grouping.
 
-## React Compiler
+The goal of this project is to simulate a real productivity dashboard with a clean UI and structured workflow.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Kanban-style task board  
+- Task priorities (High, Medium, Low)  
+- Project grouping (Design, Development, Marketing)  
+- Assignees system  
+- Filtering and sorting  
+- Dashboard stats (completion rate, weekly progress)  
+- Light / Dark mode toggle  
+
+## Tech
+
+- React  
+- JavaScript (ES6+)  
+- CSS  
+- Vite  
+
+## Preview
+<img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/0499d500-7991-494b-b32d-e7cf65dcf881" />
+<img width="1919" height="914" alt="image" src="https://github.com/user-attachments/assets/e693f687-3000-44bd-98cc-76fea9cbaa03" />
+<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/0633b6b4-0d41-41f6-8e9d-292df726cf80" />
+
+
+## Future improvements
+
+- Drag & drop tasks  
+- Authentication  
+- Backend integration  
+- Real-time updates  
+
+---
+
+## 👩‍💻 Author
+
+Isra Vale
